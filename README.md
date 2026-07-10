@@ -10,11 +10,3 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Languages
 
 - C++
-
-## Progress
-
-### Binary Search
-- [x] LeetCode 34 - Find First and Last Position of Element in Sorted Array
-- [x] LeetCode 852 - Peak Index in a Mountain Array
-
-Problems Solved: 2
