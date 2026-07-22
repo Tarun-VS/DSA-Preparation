@@ -2,7 +2,7 @@
 LeetCode 1480 - Running Sum of 1d Array
 
 Topic:
-Arrays
+Prefix Sum
 
 Time Complexity: O(n)
 Space Complexity: O(1)
